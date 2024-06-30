@@ -21,6 +21,33 @@ This project implements a Convolutional Neural Network (CNN) for classifying ima
 ## Setup 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cifar-10-classifier.git
+   git clone https://github.com/basantadharala/cifar-10-classifier.git
    cd cifar-10-classifier
+   2. installing depencies
+   pip install -r requirements.txt
 
+   3.	Download the CIFAR-10 dataset:
+The dataset will be automatically downloaded and cached when running the notebook.
+## Usage 🚀
+
+
+	•	Open and execute the cifar10_classifier.ipynb notebook using Jupyter or any compatible environment.
+	•	Follow the instructions in the notebook to preprocess data, train the CNN model, evaluate performance, and visualize results.
+	•	Optionally, adjust hyperparameters, experiment with different architectures, or modify the code to suit specific requirements.
+
+##Results 📊
+
+	•	The trained model achieves an accuracy of [insert accuracy here] on the validation set.
+	•	Evaluation metrics (accuracy, precision, recall, etc.) are computed and displayed in the notebook.
+
+##License 📜
+
+This project is licensed under the MIT License.
+
+##Acknowledgments 🙏
+
+	•	The CIFAR-10 dataset is part of the CIFAR dataset, collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
+
+##Connect with Me 🌐
+
+	•	Let’s connect on LinkedIn!
