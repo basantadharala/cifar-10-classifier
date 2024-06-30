@@ -35,19 +35,19 @@ The dataset will be automatically downloaded and cached when running the noteboo
 	•	Follow the instructions in the notebook to preprocess data, train the CNN model, evaluate performance, and visualize results.
 	•	Optionally, adjust hyperparameters, experiment with different architectures, or modify the code to suit specific requirements.
 
-##Results 📊
+## Results 📊
 
 	•	The trained model achieves an accuracy of [insert accuracy here] on the validation set.
 	•	Evaluation metrics (accuracy, precision, recall, etc.) are computed and displayed in the notebook.
 
-##License 📜
+## License 📜
 
 This project is licensed under the MIT License.
 
-##Acknowledgments 🙏
+## Acknowledgments 🙏
 
 	•	The CIFAR-10 dataset is part of the CIFAR dataset, collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
 
-##Connect with Me 🌐
+## Connect with Me 🌐
 
 	•	Let’s connect on LinkedIn!
